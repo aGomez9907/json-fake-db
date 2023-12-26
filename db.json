@@ -63,7 +63,7 @@
   "productos": [
     {
       "SKU": "pr123",
-      "categoria": "Alimentos y Bebidas",
+      "categoria": "Alimentos y bebidas",
       "nombre": "hamburguesa",
       "descripcion": "triple con papas",
       "precio": "123.456",
