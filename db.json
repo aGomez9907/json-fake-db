@@ -58,4 +58,35 @@
       "emailContacto":"hola@ejemplo.com",
       "rolContacto": "encargado"
     }
-    ]}
+    ],
+  
+  "productos": [
+    {
+      "SKU": "pr123",
+      "categoria": "alimentos",
+      "nombre": "hamburguesa",
+      "descripcion": "triple con papas",
+      "precio": "123.456",
+      "proveedor": "maconal",
+      "img": "https://media.istockphoto.com/id/1398630614/es/foto/hamburguesa-con-queso-de-tocino-en-un-bollo-tostado.jpg?s=612x612&w=0&k=20&c=KLPvSrqnisFDDyWr-R8LiT9UHEeNgSmriFQm4yqVGM4="
+  },
+  {
+    "SKU": "pr456",
+    "categoria": "automotor",
+    "nombre": "Ferrari LaFerrari",
+    "descripcion": "automóvil superdeportivo híbrido eléctrico",
+    "precio": "123456789101112.1234",
+    "proveedor": "Ferrari",
+    "img": "https://cdn.ferrari.com/cms/network/media/img/resize/5ddb97392cdb32285a799dfa-laferrari-2013-share?width=1080"
+},
+{
+  "SKU": "lp1234",
+  "categoria": "Informatica",
+  "nombre": "PlayStation 2",
+  "descripcion": "Consola de videojuegos",
+  "precio": "1234567.1234",
+  "proveedor": "Sony",
+  "img": "https://http2.mlstatic.com/D_NQ_NP_923283-MLA40388393976_012020-O.webp"
+}
+  ]}
+  
